@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Website is under construction"
+title: "Kia ora!"
 author_profile: true
 redirect_from: 
   - /about/
