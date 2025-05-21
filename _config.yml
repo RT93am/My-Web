@@ -27,7 +27,7 @@ author:
   avatar           : "profile.png"
   name             : "Ronnie R. Tamming"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "" #Optional bio
   location         : "Wellington, NZ"
   employer         : "Advemto Ltd."
   uri              : # URL
