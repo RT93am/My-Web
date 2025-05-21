@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Personal Page"
+title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Ronnie Tamming"
 description              : &description "personal description"
